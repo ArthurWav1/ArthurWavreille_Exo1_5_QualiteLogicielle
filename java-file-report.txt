@@ -1,0 +1,20 @@
+Java File Report
+----------------
+
+Number of .java files: 12
+
+Per-file breakdown:
+./src/test/java/bankAccountApp/PersonTest.java – 228 lines
+./src/test/java/bankAccountApp/AllTests.java – 11 lines
+./src/test/java/bankAccountApp/BankAccountTest.java – 205 lines
+./src/test/java/bankAccountApp/BankTest.java – 148 lines
+./src/test/java/bankAccountApp/ACHServiceTest.java – 58 lines
+./src/main/java/bankAccountApp/ACHService.java – 25 lines
+./src/main/java/bankAccountApp/helperMethod.java – 25 lines
+./src/main/java/bankAccountApp/BankAccountApp.java – 220 lines
+./src/main/java/bankAccountApp/Bank.java – 203 lines
+./src/main/java/bankAccountApp/Person.java – 273 lines
+./src/main/java/bankAccountApp/ACHServiceImpl.java – 19 lines
+./src/main/java/bankAccountApp/BankAccount.java – 215 lines
+
+Total lines of Java code: 1630
